@@ -2,10 +2,10 @@ span {
     display: inline-block;
   }
 
-.paragraph {
-    word-break: break-all;
-    white-space: normal;
+body {
+    text-align: center;
 }
+
   /* span {
     display: inline-block;
     background-color: lightblue;
