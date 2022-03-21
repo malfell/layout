@@ -1,6 +1,11 @@
 span {
     display: inline-block;
   }
+
+.paragraph {
+    word-break: break-all;
+    white-space: normal;
+}
   /* span {
     display: inline-block;
     background-color: lightblue;
